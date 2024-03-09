@@ -1,7 +1,5 @@
 # Bank-Churn-Classification
 
-# Bank Churn Classification
-
 ## Overview
 This repository contains code for predicting customer churn in a bank using machine learning techniques. Customer churn refers to the phenomenon where customers stop doing business with a company. Predicting churn is crucial for businesses, especially in industries with high competition, such as banking, as it allows proactive measures to retain customers.
 
