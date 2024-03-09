@@ -27,9 +27,9 @@ The dataset used in this project is a fictional dataset representing customers o
 
 ## Model Performance
 - Include details about the model's performance metrics, such as accuracy, precision, recall, F1-score, etc.
-- 
+  
        Model-Name	             Accuracy	       AUC	         F1-Score
-0	DecisionTreeClassifier	    80.006463	    70.431959	     53.069739
+0.	DecisionTreeClassifier	    80.006463	    70.431959	     53.069739
 1	RandomForestClassifier	    85.845570	    87.133568	     61.315964
 2	GradientBoostingClassifier	86.481792	    88.792851	     62.489492
 3	ExtraTreesClassifier	      85.310335	    86.395071	     60.263345
